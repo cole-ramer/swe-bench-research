@@ -1,0 +1,4 @@
+docent-python
+datasets
+pandas
+python-dotenv
